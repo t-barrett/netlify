@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chemistry | Trevor J Barrett</title>
+    <link>/tags/chemistry/</link>
+      <atom:link href="/tags/chemistry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chemistry</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Trevor J Barrett, 2019</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Chemistry</title>
+      <link>/tags/chemistry/</link>
+    </image>
+    
+    <item>
+      <title>Constrained interactivity for relating multiple representations in science: When virtual is better than real</title>
+      <link>/publication/barrett-201569/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/barrett-201569/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

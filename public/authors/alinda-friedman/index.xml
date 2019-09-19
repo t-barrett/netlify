@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alinda Friedman | Trevor J Barrett</title>
+    <link>/authors/alinda-friedman/</link>
+      <atom:link href="/authors/alinda-friedman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alinda Friedman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Trevor J Barrett, 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Alinda Friedman</title>
+      <link>/authors/alinda-friedman/</link>
+    </image>
+    
+    <item>
+      <title>Where are you? The effect of uncertainty and its visual representation on location judgments in GPS-like displays.</title>
+      <link>/publication/hegarty-2016-you/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/hegarty-2016-you/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
