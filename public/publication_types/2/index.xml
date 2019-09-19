@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Trevor J Barrett</title>
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Trevor J Barrett, 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>2</title>
+      <link>/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Assessing the effectiveness of different visualizations for judgments of positional uncertainty</title>
+      <link>/publication/doi-10-1080-13658816-2015-1082566/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/doi-10-1080-13658816-2015-1082566/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of interface and spatial ability on manipulation of virtual models in a STEM domain</title>
+      <link>/publication/barrett-2016-effects/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/barrett-2016-effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where are you? The effect of uncertainty and its visual representation on location judgments in GPS-like displays.</title>
+      <link>/publication/hegarty-2016-you/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/hegarty-2016-you/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constrained interactivity for relating multiple representations in science: When virtual is better than real</title>
+      <link>/publication/barrett-201569/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/barrett-201569/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usability of concrete and virtual models in chemistry instruction</title>
+      <link>/publication/stull-20132546/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/stull-20132546/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Trevor J Barrett</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Trevor J Barrett, 2019</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>/tags/demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemistry education</title>
+      <link>/tags/chemistry-education/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/chemistry-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interface design</title>
+      <link>/tags/interface-design/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/interface-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular models</title>
+      <link>/tags/molecular-models/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/molecular-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial ability</title>
+      <link>/tags/spatial-ability/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/spatial-ability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stereo</title>
+      <link>/tags/stereo/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/stereo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual environments</title>
+      <link>/tags/virtual-environments/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/virtual-environments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plot</title>
+      <link>/tags/plot/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <guid>/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>/tags/r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <guid>/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regression</title>
+      <link>/tags/regression/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemistry</title>
+      <link>/tags/chemistry/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/chemistry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constrained interactivity</title>
+      <link>/tags/constrained-interactivity/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/constrained-interactivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagrams</title>
+      <link>/tags/diagrams/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/diagrams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Models</title>
+      <link>/tags/models/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual</title>
+      <link>/tags/virtual/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/virtual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagrammatic reasoning</title>
+      <link>/tags/diagrammatic-reasoning/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/tags/diagrammatic-reasoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manipulatives</title>
+      <link>/tags/manipulatives/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/tags/manipulatives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organic chemistry</title>
+      <link>/tags/organic-chemistry/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/tags/organic-chemistry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representational competence</title>
+      <link>/tags/representational-competence/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/tags/representational-competence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual reality</title>
+      <link>/tags/virtual-reality/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/tags/virtual-reality/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
