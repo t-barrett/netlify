@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Molecular models | Trevor J Barrett</title>
-    <link>https://tbarrett.netlify.com/tags/molecular-models/</link>
-      <atom:link href="https://tbarrett.netlify.com/tags/molecular-models/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/molecular-models/</link>
+      <atom:link href="/tags/molecular-models/index.xml" rel="self" type="application/rss+xml" />
     <description>Molecular models</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Trevor J Barrett, 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tbarrett.netlify.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Molecular models</title>
-      <link>https://tbarrett.netlify.com/tags/molecular-models/</link>
+      <link>/tags/molecular-models/</link>
     </image>
     
     <item>
       <title>Effects of interface and spatial ability on manipulation of virtual models in a STEM domain</title>
-      <link>https://tbarrett.netlify.com/publication/barrett-2016-effects/</link>
+      <link>/publication/barrett-2016-effects/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://tbarrett.netlify.com/publication/barrett-2016-effects/</guid>
+      <guid>/publication/barrett-2016-effects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Usability of concrete and virtual models in chemistry instruction</title>
-      <link>https://tbarrett.netlify.com/publication/stull-20132546/</link>
+      <link>/publication/stull-20132546/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://tbarrett.netlify.com/publication/stull-20132546/</guid>
+      <guid>/publication/stull-20132546/</guid>
       <description></description>
     </item>
     

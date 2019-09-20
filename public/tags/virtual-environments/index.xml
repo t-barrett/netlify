@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Virtual environments | Trevor J Barrett</title>
-    <link>https://tbarrett.netlify.com/tags/virtual-environments/</link>
-      <atom:link href="https://tbarrett.netlify.com/tags/virtual-environments/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/virtual-environments/</link>
+      <atom:link href="/tags/virtual-environments/index.xml" rel="self" type="application/rss+xml" />
     <description>Virtual environments</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Trevor J Barrett, 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tbarrett.netlify.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Virtual environments</title>
-      <link>https://tbarrett.netlify.com/tags/virtual-environments/</link>
+      <link>/tags/virtual-environments/</link>
     </image>
     
     <item>
       <title>Effects of interface and spatial ability on manipulation of virtual models in a STEM domain</title>
-      <link>https://tbarrett.netlify.com/publication/barrett-2016-effects/</link>
+      <link>/publication/barrett-2016-effects/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://tbarrett.netlify.com/publication/barrett-2016-effects/</guid>
+      <guid>/publication/barrett-2016-effects/</guid>
       <description></description>
     </item>
     

@@ -3,282 +3,302 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tbarrett.netlify.com/courses/example/example1/</loc>
+    <loc>/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/courses/example/</loc>
+    <loc>/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/courses/example/example2/</loc>
+    <loc>/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/talk/example/</loc>
+    <loc>/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/talk/</loc>
+    <loc>/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/</loc>
+    <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/slides/</loc>
+    <loc>/project/doctoral/</loc>
+    <lastmod>2019-09-20T19:18:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-09-20T19:18:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/slides/example/</loc>
+    <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/tags/deep-learning/</loc>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/tags/demo/</loc>
+    <loc>/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/project/external-project/</loc>
+    <loc>/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/project/internal-project/</loc>
+    <loc>/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/project/</loc>
+    <loc>/tags/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/tags/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tbarrett.netlify.com/publication_types/2/</loc>
+    <loc>/publication_types/2/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/authors/alexander-p-boone/</loc>
+    <loc>/authors/alexander-p-boone/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/authors/alinda-friedman/</loc>
+    <loc>/authors/alinda-friedman/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/publication/doi-10-1080-13658816-2015-1082566/</loc>
+    <loc>/publication/doi-10-1080-13658816-2015-1082566/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/authors/</loc>
+    <loc>/authors/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/tags/chemistry-education/</loc>
+    <loc>/tags/chemistry-education/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/publication/barrett-2016-effects/</loc>
+    <loc>/publication/barrett-2016-effects/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/authors/grant-mckenzie/</loc>
+    <loc>/authors/grant-mckenzie/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/tags/interface-design/</loc>
+    <loc>/tags/interface-design/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/authors/mary-hegarty/</loc>
+    <loc>/authors/mary-hegarty/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/authors/michael-goodchild/</loc>
+    <loc>/authors/michael-goodchild/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/tags/molecular-models/</loc>
+    <loc>/tags/molecular-models/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/publication/</loc>
+    <loc>/publication/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/tags/spatial-ability/</loc>
+    <loc>/tags/spatial-ability/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/tags/stereo/</loc>
+    <loc>/tags/stereo/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/authors/trevor-barrett/</loc>
+    <loc>/authors/trevor-barrett/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/authors/trevor-j-barrett/</loc>
+    <loc>/authors/trevor-j-barrett/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/authors/trevor-j.-barrett/</loc>
+    <loc>/authors/trevor-j.-barrett/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/tags/virtual-environments/</loc>
+    <loc>/tags/virtual-environments/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/publication/hegarty-2016-you/</loc>
+    <loc>/publication/hegarty-2016-you/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/authors/andrew-t.-stull/</loc>
+    <loc>/project/masters/</loc>
+    <lastmod>2019-09-20T19:15:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/andrew-t.-stull/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/tags/chemistry/</loc>
+    <loc>/tags/chemistry/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/tags/constrained-interactivity/</loc>
+    <loc>/tags/constrained-interactivity/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/publication/barrett-201569/</loc>
+    <loc>/publication/barrett-201569/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/tags/diagrams/</loc>
+    <loc>/tags/diagrams/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/tags/models/</loc>
+    <loc>/tags/models/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/authors/ted-m.-hsu/</loc>
+    <loc>/authors/ted-m.-hsu/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/tags/virtual/</loc>
+    <loc>/tags/virtual/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/publication_types/1/</loc>
+    <loc>/publication_types/1/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/publication/barrett-2014-interaction/</loc>
+    <loc>/publication/barrett-2014-interaction/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/tags/diagrammatic-reasoning/</loc>
+    <loc>/tags/diagrammatic-reasoning/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/tags/manipulatives/</loc>
+    <loc>/tags/manipulatives/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/tags/organic-chemistry/</loc>
+    <loc>/tags/organic-chemistry/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/tags/representational-competence/</loc>
+    <loc>/tags/representational-competence/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/publication/stull-20132546/</loc>
+    <loc>/publication/stull-20132546/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/tags/virtual-reality/</loc>
+    <loc>/tags/virtual-reality/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/authors/admin/</loc>
+    <loc>/authors/admin/</loc>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/courses/</loc>
+    <loc>/courses/</loc>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/cv/</loc>
+    <loc>/cv/</loc>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/resume/</loc>
+    <loc>/resume/</loc>
   </url>
   
   <url>
-    <loc>https://tbarrett.netlify.com/post/</loc>
+    <loc>/post/</loc>
   </url>
   
 </urlset>

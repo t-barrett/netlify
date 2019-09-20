@@ -2,106 +2,104 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Trevor J Barrett</title>
-    <link>https://tbarrett.netlify.com/authors/</link>
-      <atom:link href="https://tbarrett.netlify.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Trevor J Barrett, 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tbarrett.netlify.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Authors</title>
-      <link>https://tbarrett.netlify.com/authors/</link>
+      <link>/authors/</link>
     </image>
     
     <item>
       <title>Alexander P Boone</title>
-      <link>https://tbarrett.netlify.com/authors/alexander-p-boone/</link>
+      <link>/authors/alexander-p-boone/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://tbarrett.netlify.com/authors/alexander-p-boone/</guid>
+      <guid>/authors/alexander-p-boone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alinda Friedman</title>
-      <link>https://tbarrett.netlify.com/authors/alinda-friedman/</link>
+      <link>/authors/alinda-friedman/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://tbarrett.netlify.com/authors/alinda-friedman/</guid>
+      <guid>/authors/alinda-friedman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grant McKenzie</title>
-      <link>https://tbarrett.netlify.com/authors/grant-mckenzie/</link>
+      <link>/authors/grant-mckenzie/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://tbarrett.netlify.com/authors/grant-mckenzie/</guid>
+      <guid>/authors/grant-mckenzie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mary Hegarty</title>
-      <link>https://tbarrett.netlify.com/authors/mary-hegarty/</link>
+      <link>/authors/mary-hegarty/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://tbarrett.netlify.com/authors/mary-hegarty/</guid>
+      <guid>/authors/mary-hegarty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Michael Goodchild</title>
-      <link>https://tbarrett.netlify.com/authors/michael-goodchild/</link>
+      <link>/authors/michael-goodchild/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://tbarrett.netlify.com/authors/michael-goodchild/</guid>
+      <guid>/authors/michael-goodchild/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trevor Barrett</title>
-      <link>https://tbarrett.netlify.com/authors/trevor-barrett/</link>
+      <link>/authors/trevor-barrett/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://tbarrett.netlify.com/authors/trevor-barrett/</guid>
+      <guid>/authors/trevor-barrett/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trevor J Barrett</title>
-      <link>https://tbarrett.netlify.com/authors/trevor-j-barrett/</link>
+      <link>/authors/trevor-j-barrett/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://tbarrett.netlify.com/authors/trevor-j-barrett/</guid>
+      <guid>/authors/trevor-j-barrett/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trevor J. Barrett</title>
-      <link>https://tbarrett.netlify.com/authors/trevor-j.-barrett/</link>
+      <link>/authors/trevor-j.-barrett/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://tbarrett.netlify.com/authors/trevor-j.-barrett/</guid>
+      <guid>/authors/trevor-j.-barrett/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Andrew T. Stull</title>
-      <link>https://tbarrett.netlify.com/authors/andrew-t.-stull/</link>
+      <link>/authors/andrew-t.-stull/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://tbarrett.netlify.com/authors/andrew-t.-stull/</guid>
+      <guid>/authors/andrew-t.-stull/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ted M. Hsu</title>
-      <link>https://tbarrett.netlify.com/authors/ted-m.-hsu/</link>
+      <link>/authors/ted-m.-hsu/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://tbarrett.netlify.com/authors/ted-m.-hsu/</guid>
+      <guid>/authors/ted-m.-hsu/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://tbarrett.netlify.com/authors/admin/</link>
+      <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tbarrett.netlify.com/authors/admin/</guid>
-      <description>&lt;p&gt;Trevor recently completed his PhD in Psychological and Brain Sciences under advisement of Mary Hegarty at University of California, Santa Barbara. Working in the &lt;a href=&#34;https://hegarty-lab.psych.ucsb.edu&#34; target=&#34;_blank&#34;&gt;Spatial Thinking Lab&lt;/a&gt;, his research primarily focused on issues surrounding interaction design of virtual environments for spatial problem solving tasks. His Master&amp;rsquo;s research involved engineering a tangible user interface and mirrored display apparatus that gave the haptic illusion of physically manipulating the virtual model. For his dissertation studies, he investigated cognitive strategy use and individual differences during the mental rotation task with novel molecular model stimuli. He employed model-based clustering on user response time distributions to classify people into two strategy groups and discriminant analysis to predict self-reported strategy use. One important finding was that common spatial ability measures predicted adherence to the slower error-prone mental rotation strategy, while abstract reasoning ability predicted use of a faster and more accurate non-rotation strategy.&lt;/p&gt;
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Trevor recently completed his PhD in Psychological and Brain Sciences under advisement of Mary Hegarty at University of California, Santa Barbara. Working in the &lt;a href=&#34;https://hegarty-lab.psych.ucsb.edu&#34; target=&#34;_blank&#34;&gt;Spatial Thinking Lab&lt;/a&gt;, his research primarily focused on issues surrounding interaction design of virtual environments for spatial problem solving tasks. Some highlights of Trevor&amp;rsquo;s time in grad school include advising group projects for Advanced Research Methods Laboratory and having the opportunity to plan and present research with colleagues at interdisciplinary multi-institution meetings for large NSF grants. He especially enjoys developing tools and analytic pipelines for students and colleagues to better express their data stories.&lt;/p&gt;
 
-&lt;p&gt;Some highlights of Trevor&amp;rsquo;s time in grad school include advising group projects for Advanced Research Methods Laboratory and having the opportunity to plan and present research with colleagues at cross-disciplinary multi-institution meetings for large NSF grants. He especially enjoys developing tools and analytic pipelines for students and colleagues to better express their data stories. Moving towards Data Science professionally, he has grown to embrace reproducible research methods and workflows to continually monitor data integrity throughout the lifecycle of data and knowledge products. He knows how to create automated reports that can be programmatically audited and updated, collect data from various external sources using API packages, and manage large out-of-memory workloads using split -&amp;gt; apply -&amp;gt; combine methods on distributed systems. With eight years of experience managing various custom data collection platforms, I find myself mostly working from the R IDE to gather data then delegate tasks or external ML packages or languages like Stan, Julia, etc. I have experience working in Windows, Linux, HPC and cloud environments and am eager to share, learn, and integrate new methods alongside an awesome team.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://tbarrett.netlify.com/files/cv.pdf&#34;&gt;Download my CV&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Moving towards Data Science professionally, he has grown to embrace reproducible research methods with continual data integrity monitoring throughout the knowledge product lifecycle. He is capable of creating automated reports that can be programmatically audited and updated, has experience mining and warehousing data from various public (e.g. &lt;a href=&#34;https://rtweet.info&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;) and private APIs, and can handle large out-of-memory workloads using &lt;a href=&#34;https://www.jstatsoft.org/article/view/v040i01&#34; target=&#34;_blank&#34;&gt;Split-Apply-Combine&lt;/a&gt; methods on distributed systems. With eight years of experience managing various data projects, he finds himself using Rstudio or Jupyter notebooks for exploratory data analysis, modeling in external ML packages, and doing Bayesian data analysis using the R interface to &lt;a href=&#34;https://mc-stan.org&#34; target=&#34;_blank&#34;&gt;Stan&lt;/a&gt;.  He is comfortable using Python for general programming tasks and has developed on Windows, Linux, high-performance computing, and hybrid multi-cloud environments. New on the job market, Trevor is eager to grow, share, and learn new methods to achieve impactful insights alongside an awesome team.&lt;/p&gt;
 </description>
     </item>
     
