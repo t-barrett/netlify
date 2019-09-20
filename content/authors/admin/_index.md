@@ -28,7 +28,7 @@ name: Trevor J Barrett
 # Organizations/Affiliations
 organizations:
  - name: SB <-> LA <-> SF
-   url: ""
+   url: "trevorbarrett@ucsb.edu"
 role: Experimental Psychologist
 social:
 - icon: envelope
@@ -48,9 +48,6 @@ social:
 - icon: cv
   icon_pack: ai
   link: "files/cv.pdf"
-- icon: resume
-  icon_pack: ai
-  link: static/files/resume.pdf
 superuser: true
 
 # user_groups:
