@@ -113,7 +113,7 @@ contact_links = [
   {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/trevor-barrett-ph-d-41127b59/"},
   {icon = "github", icon_pack = "fab", name = "Gitub", link = "https://www.github.com/t-barrett/"},
   {icon = "google-scholar", icon_pack = "ai", name = "Scholar", link = "https://scholar.google.com/citations?user=UUPVK0kAAAAJ&hl=en"},
-  {icon = "research-gate", icon_pack = "ai", name = "Research Gate", link = "https://www.github.com/t-barrett/"}
+  {icon = "cv", icon_pack = "ai", name = "CV", link = "files/cv.pdf"}
   ]
 
 ############################
@@ -158,7 +158,7 @@ section_pager = false
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
-sharing = true
+sharing = false
 
 # Load CSS and JS plugins
 #   E.g. To load `/assets/css/custom.css`, set `plugins_css = ["custom"]`.
