@@ -16,7 +16,7 @@ baseurl = "https://tbarrett.netlify.com/"
 copyright = "&copy; Trevor J Barrett, {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-148410524-1"
 
 ############################
 ## Advanced options below ##
