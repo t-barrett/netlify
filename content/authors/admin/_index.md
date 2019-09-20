@@ -12,7 +12,7 @@ education:
   - course: MA Psychology
     institution: University of California, Santa Barbara
     year: 2015
-  - course: BA SPsychology
+  - course: BA Psychology
     institution: University of California, Santa Barbara
     year: 2011
 email: "trevorbarrett@ucsb.edu"
