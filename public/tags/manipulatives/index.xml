@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manipulatives | Trevor J Barrett</title>
-    <link>/tags/manipulatives/</link>
-      <atom:link href="/tags/manipulatives/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tbarrett.netlify.com/tags/manipulatives/</link>
+      <atom:link href="https://tbarrett.netlify.com/tags/manipulatives/index.xml" rel="self" type="application/rss+xml" />
     <description>Manipulatives</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Trevor J Barrett, 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://tbarrett.netlify.com/img/icon-192.png</url>
       <title>Manipulatives</title>
-      <link>/tags/manipulatives/</link>
+      <link>https://tbarrett.netlify.com/tags/manipulatives/</link>
     </image>
     
     <item>
       <title>Usability of concrete and virtual models in chemistry instruction</title>
-      <link>/publication/stull-20132546/</link>
+      <link>https://tbarrett.netlify.com/publication/stull-20132546/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/stull-20132546/</guid>
+      <guid>https://tbarrett.netlify.com/publication/stull-20132546/</guid>
       <description></description>
     </item>
     

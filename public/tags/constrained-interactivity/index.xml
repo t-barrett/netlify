@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Constrained interactivity | Trevor J Barrett</title>
-    <link>/tags/constrained-interactivity/</link>
-      <atom:link href="/tags/constrained-interactivity/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tbarrett.netlify.com/tags/constrained-interactivity/</link>
+      <atom:link href="https://tbarrett.netlify.com/tags/constrained-interactivity/index.xml" rel="self" type="application/rss+xml" />
     <description>Constrained interactivity</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Trevor J Barrett, 2019</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://tbarrett.netlify.com/img/icon-192.png</url>
       <title>Constrained interactivity</title>
-      <link>/tags/constrained-interactivity/</link>
+      <link>https://tbarrett.netlify.com/tags/constrained-interactivity/</link>
     </image>
     
     <item>
       <title>Constrained interactivity for relating multiple representations in science: When virtual is better than real</title>
-      <link>/publication/barrett-201569/</link>
+      <link>https://tbarrett.netlify.com/publication/barrett-201569/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/barrett-201569/</guid>
+      <guid>https://tbarrett.netlify.com/publication/barrett-201569/</guid>
       <description></description>
     </item>
     

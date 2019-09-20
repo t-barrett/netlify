@@ -47,10 +47,10 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: "static/files/cv.pdf"
-# - icon: resume
-#   icon_pack: ai
-#   link: static/files/resume.pdf
+  link: "files/cv.pdf"
+- icon: resume
+  icon_pack: ai
+  link: static/files/resume.pdf
 superuser: true
 
 # user_groups:
