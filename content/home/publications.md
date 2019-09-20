@@ -28,7 +28,7 @@ subtitle = ""
    tag = ""
    category = ""
    publication_type = ""
-  exclude_featured = true
+  exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.
@@ -36,7 +36,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.

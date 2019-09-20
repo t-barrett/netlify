@@ -33,7 +33,7 @@
   </url>
   
   <url>
-    <loc>/project/doctoral/</loc>
+    <loc>/project/phd/doctoral/</loc>
     <lastmod>2019-09-20T19:18:02+00:00</lastmod>
   </url>
   
@@ -63,27 +63,7 @@
   </url>
   
   <url>
-    <loc>/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+    <loc>/project/visunc/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -168,6 +148,11 @@
   </url>
   
   <url>
+    <loc>/tags/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/trevor-barrett/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -193,7 +178,7 @@
   </url>
   
   <url>
-    <loc>/project/masters/</loc>
+    <loc>/project/masters/masters/</loc>
     <lastmod>2019-09-20T19:15:58+00:00</lastmod>
   </url>
   
@@ -245,6 +230,11 @@
   <url>
     <loc>/publication/barrett-2014-interaction/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/chemistry/chem/</loc>
+    <lastmod>2013-09-20T20:19:50+00:00</lastmod>
   </url>
   
   <url>

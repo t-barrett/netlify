@@ -1,0 +1,19 @@
+---
+title: Master's Research
+author: Trevor
+date: '2015-06-12'
+slug: masters
+categories: []
+tags: []
+subtitle: 'Interaction Design and the Role of Spatial Ability in Virtual Molecule Manipulation Performance'
+summary: 'Interaction Design and the Role of Spatial Ability in Virtual Molecule Manipulation Performance'
+authors: []
+lastmod: '2019-09-20T19:15:58Z'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: [masters]
+---
+His Master's research involved engineering a tangible user interface and mirrored display apparatus that gave the haptic illusion of physically manipulating the virtual model.
