@@ -28,16 +28,19 @@
    name = "Dissertation"
    url = "files/dissertation.pdf"
    weight = 50
+   
 [[main]]
    parent = "Selected Works"
    name = "Twitter influence campaign analysis"
    url = "files/twitter.html"
-  weight = 50
+  weight = 50 
+  
 [[main]]
    parent = "Selected Works"
    name = "Worked interview evaluation"
    url = "files/interview.html"
    weight = 50
+   
 #[[main]]
 #  name = "Courses"
 #  url = "courses/"
