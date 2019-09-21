@@ -53,16 +53,6 @@
   </url>
   
   <url>
-    <loc>/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/visunc/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -257,11 +247,6 @@
   </url>
   
   <url>
-    <loc>/twitter/twitter-analysis/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
   </url>
   
@@ -278,11 +263,11 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/dissertation/</loc>
   </url>
   
   <url>
-    <loc>/twitter/</loc>
+    <loc>/post/</loc>
   </url>
   
 </urlset>

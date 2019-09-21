@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dissertation | Trevor J Barrett</title>
+    <link>/dissertation/</link>
+      <atom:link href="/dissertation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dissertation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Trevor J Barrett, 2019</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Dissertation</title>
+      <link>/dissertation/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -22,16 +22,26 @@
   name = "Publications"
   url = "#featured"
   weight = 40
-
+  
+[[main]]
+   parent = "Selected Works"
+   name = "Dissertation"
+   url = "files/disertation.pdf"
+   weight = 50
+[[main]]
+   parent = "Selected Works"
+   name = "Twitter influence campaign analysis"
+   url = "files/twitter.html"
+  weight = 50
+[[main]]
+   parent = "Selected Works"
+   name = "Worked interview evaluation"
+   url = "files/interview.html"
+   weight = 50
 #[[main]]
 #  name = "Courses"
 #  url = "courses/"
 #  weight = 50
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -39,5 +49,10 @@
 [[main]]
    name = "CV"
     url = "files/cv.pdf"
-    weight = 70
+    weight = 60
+    
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 70
 
