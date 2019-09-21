@@ -26,7 +26,7 @@
 [[main]]
    parent = "Selected Works"
    name = "Dissertation"
-   url = "files/disertation.pdf"
+   url = "files/dissertation.pdf"
    weight = 50
 [[main]]
    parent = "Selected Works"
