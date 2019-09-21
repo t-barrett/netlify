@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trevor J Barrett</title>
-    <link>/authors/admin/</link>
-      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tbarrett.netlify.com/authors/admin/</link>
+      <atom:link href="https://tbarrett.netlify.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Trevor J Barrett</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Trevor J Barrett, 2019</copyright>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://tbarrett.netlify.com/img/icon-192.png</url>
       <title>Trevor J Barrett</title>
-      <link>/authors/admin/</link>
+      <link>https://tbarrett.netlify.com/authors/admin/</link>
     </image>
     
   </channel>

@@ -2,141 +2,141 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Trevor J Barrett</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tbarrett.netlify.com/tags/</link>
+      <atom:link href="https://tbarrett.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Trevor J Barrett, 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://tbarrett.netlify.com/img/icon-192.png</url>
       <title>Tags</title>
-      <link>/tags/</link>
+      <link>https://tbarrett.netlify.com/tags/</link>
     </image>
     
     <item>
       <title>Chemistry education</title>
-      <link>/tags/chemistry-education/</link>
+      <link>https://tbarrett.netlify.com/tags/chemistry-education/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/chemistry-education/</guid>
+      <guid>https://tbarrett.netlify.com/tags/chemistry-education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interface design</title>
-      <link>/tags/interface-design/</link>
+      <link>https://tbarrett.netlify.com/tags/interface-design/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/interface-design/</guid>
+      <guid>https://tbarrett.netlify.com/tags/interface-design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molecular models</title>
-      <link>/tags/molecular-models/</link>
+      <link>https://tbarrett.netlify.com/tags/molecular-models/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/molecular-models/</guid>
+      <guid>https://tbarrett.netlify.com/tags/molecular-models/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial ability</title>
-      <link>/tags/spatial-ability/</link>
+      <link>https://tbarrett.netlify.com/tags/spatial-ability/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/spatial-ability/</guid>
+      <guid>https://tbarrett.netlify.com/tags/spatial-ability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stereo</title>
-      <link>/tags/stereo/</link>
+      <link>https://tbarrett.netlify.com/tags/stereo/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/stereo/</guid>
+      <guid>https://tbarrett.netlify.com/tags/stereo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Virtual environments</title>
-      <link>/tags/virtual-environments/</link>
+      <link>https://tbarrett.netlify.com/tags/virtual-environments/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/virtual-environments/</guid>
+      <guid>https://tbarrett.netlify.com/tags/virtual-environments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chemistry</title>
-      <link>/tags/chemistry/</link>
+      <link>https://tbarrett.netlify.com/tags/chemistry/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/tags/chemistry/</guid>
+      <guid>https://tbarrett.netlify.com/tags/chemistry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Constrained interactivity</title>
-      <link>/tags/constrained-interactivity/</link>
+      <link>https://tbarrett.netlify.com/tags/constrained-interactivity/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/tags/constrained-interactivity/</guid>
+      <guid>https://tbarrett.netlify.com/tags/constrained-interactivity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diagrams</title>
-      <link>/tags/diagrams/</link>
+      <link>https://tbarrett.netlify.com/tags/diagrams/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/tags/diagrams/</guid>
+      <guid>https://tbarrett.netlify.com/tags/diagrams/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Models</title>
-      <link>/tags/models/</link>
+      <link>https://tbarrett.netlify.com/tags/models/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/tags/models/</guid>
+      <guid>https://tbarrett.netlify.com/tags/models/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Virtual</title>
-      <link>/tags/virtual/</link>
+      <link>https://tbarrett.netlify.com/tags/virtual/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/tags/virtual/</guid>
+      <guid>https://tbarrett.netlify.com/tags/virtual/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diagrammatic reasoning</title>
-      <link>/tags/diagrammatic-reasoning/</link>
+      <link>https://tbarrett.netlify.com/tags/diagrammatic-reasoning/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/tags/diagrammatic-reasoning/</guid>
+      <guid>https://tbarrett.netlify.com/tags/diagrammatic-reasoning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Manipulatives</title>
-      <link>/tags/manipulatives/</link>
+      <link>https://tbarrett.netlify.com/tags/manipulatives/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/tags/manipulatives/</guid>
+      <guid>https://tbarrett.netlify.com/tags/manipulatives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Organic chemistry</title>
-      <link>/tags/organic-chemistry/</link>
+      <link>https://tbarrett.netlify.com/tags/organic-chemistry/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/tags/organic-chemistry/</guid>
+      <guid>https://tbarrett.netlify.com/tags/organic-chemistry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Representational competence</title>
-      <link>/tags/representational-competence/</link>
+      <link>https://tbarrett.netlify.com/tags/representational-competence/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/tags/representational-competence/</guid>
+      <guid>https://tbarrett.netlify.com/tags/representational-competence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Virtual reality</title>
-      <link>/tags/virtual-reality/</link>
+      <link>https://tbarrett.netlify.com/tags/virtual-reality/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/tags/virtual-reality/</guid>
+      <guid>https://tbarrett.netlify.com/tags/virtual-reality/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexander P Boone | Trevor J Barrett</title>
-    <link>/authors/alexander-p-boone/</link>
-      <atom:link href="/authors/alexander-p-boone/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tbarrett.netlify.com/authors/alexander-p-boone/</link>
+      <atom:link href="https://tbarrett.netlify.com/authors/alexander-p-boone/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexander P Boone</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Trevor J Barrett, 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://tbarrett.netlify.com/img/icon-192.png</url>
       <title>Alexander P Boone</title>
-      <link>/authors/alexander-p-boone/</link>
+      <link>https://tbarrett.netlify.com/authors/alexander-p-boone/</link>
     </image>
     
     <item>
       <title>Where are you? The effect of uncertainty and its visual representation on location judgments in GPS-like displays.</title>
-      <link>/publication/hegarty-2016-you/</link>
+      <link>https://tbarrett.netlify.com/publication/hegarty-2016-you/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/hegarty-2016-you/</guid>
+      <guid>https://tbarrett.netlify.com/publication/hegarty-2016-you/</guid>
       <description></description>
     </item>
     
