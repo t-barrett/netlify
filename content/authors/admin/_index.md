@@ -51,7 +51,7 @@ social:
   link: https://scholar.google.com/citations?user=UUPVK0kAAAAJ&hl=en
 - icon: researchgate
   icon_pack: ai
-  link: https://researchgate.net/Trevor_Barrett
+  link: https://researchgate.net/profile/Trevor_Barrett
 - icon: github
   icon_pack: fab
   link: https://github.com/t-barrett
