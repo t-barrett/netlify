@@ -5,7 +5,7 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Trevor J Barrett, 2019</copyright><lastBuildDate>Sat, 14 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Trevor J Barrett, 2019</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Projects</title>
@@ -13,47 +13,11 @@
     </image>
     
     <item>
-      <title>Doctoral Research</title>
-      <link>/project/phd/doctoral/</link>
-      <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/project/phd/doctoral/</guid>
-      <description>
-
-
-&lt;p&gt;For his Doctoral research, he investigated cognitive strategy use and individual differences during the mental rotation task with novel molecular model stimuli. For data analysis he employed model-based clustering on user response time distributions that classified people into two distinct strategy groups. Discriminant analysis and k-fold cross validation showed that the classifier had a predictive error of about 30%. One important finding was that a common spatial ability measure (cube comparison) predicted adherence to the slower error-prone mental rotation strategy, while abstract reasoning ability predicted use of a faster and more accurate non-rotation strategy.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Visualization of Uncertainty</title>
       <link>/project/visunc/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/visunc/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Master&#39;s Research</title>
-      <link>/project/masters/masters/</link>
-      <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>/project/masters/masters/</guid>
-      <description>
-
-
-&lt;p&gt;His Master’s research involved engineering a tangible user interface and mirrored display apparatus that gave the haptic illusion of physically manipulating the virtual model.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Concrete and Virtual Models in Chemistry</title>
-      <link>/project/chemistry/chem/</link>
-      <pubDate>Fri, 20 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>/project/chemistry/chem/</guid>
-      <description>
-
-
-
-</description>
     </item>
     
   </channel>
